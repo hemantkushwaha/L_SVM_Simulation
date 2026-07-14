@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SVM Simulation Analysis Lab",
+  "description": "An interactive machine learning lab for SVM simulation and decision boundary visualization using real Python and Scikit-learn in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
